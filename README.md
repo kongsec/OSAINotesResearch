@@ -50,19 +50,6 @@
 
 ---
 
-## Deploy
-
-Single-file HTML. No dependencies. No build step.
-
-```
-repo/
-└── index.html   ← rename osai_kongsec.html to this
-```
-
-Enable GitHub Pages → Settings → Pages → Branch: `main` → `/root`
-
-Done. Accessible at `https://kongsec.github.io/<repo-name>`
-
 ---
 
 ## Frameworks Referenced
