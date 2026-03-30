@@ -3,8 +3,6 @@
 > Complete offensive AI security notes aligned with OffSec's AI-300 (OSAI) certification.  
 > Beginner to advanced. Real scenarios. Working payloads. Tools included.
 
-**Live →** [kongsec.github.io/osai-vault](https://kongsec.github.io/osai-vault)
-
 ---
 
 ## What's Inside
